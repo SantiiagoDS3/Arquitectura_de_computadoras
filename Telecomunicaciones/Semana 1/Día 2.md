@@ -1,4 +1,4 @@
-**Diagrama a bloques de un sistema de comunicación
+**Diagrama a bloques de un sistema de comunicación:**
 
 ![Cuáles son los elementos de la comunicación](https://cdn0.unprofesor.com/es/posts/7/4/4/cuales_son_los_elementos_de_la_comunicacion_2447_600.jpg)
 
