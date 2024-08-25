@@ -1,5 +1,6 @@
-**Diagrama a bloques de un sistema de comunicación**
+**Diagrama a bloques de un sistema de comunicación
 
+![Cuáles son los elementos de la comunicación](https://cdn0.unprofesor.com/es/posts/7/4/4/cuales_son_los_elementos_de_la_comunicacion_2447_600.jpg)
 
 
 **Métodos guiados**
@@ -12,13 +13,13 @@ Son aquellos que no confinan las señales mediante ningún cambio fisico.
 
 - Campo electromagnético: Nace cuando un campo eléctrico entra en contacto con un campo magnético.
 
-- Frecuencia: Es la medida del número de veces que se repite un fenomeno por unidad de tiempo
+- Frecuencia: Es la medida del número de veces que se repite un fenómeno por unidad de tiempo
 
 - Periodo: Tiempo que tarda un fenómeno en volver al estado o posición que tenia al principio.
 
 - Ciclo: Periodo de tiempo de un fenómeno que, acabado, se vuelve a contar de nuevo.
 
-- Amplitud: Periodo de tiempo de un fenomeno que, acabado, se vuelve a contar de nuevo.
+- Amplitud: Periodo de tiempo de un fenómeno que, acabado, se vuelve a contar de nuevo.
 
 - Ondas: Es una perturbación que se propaga en el espacio, transportando energía pero no materia.
 

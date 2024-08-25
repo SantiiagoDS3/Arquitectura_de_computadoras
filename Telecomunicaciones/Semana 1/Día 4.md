@@ -1,5 +1,5 @@
 Funcionamiento de las computadoras a lo largo de los años 
 - Sin transmisión de trabajos
-- Transmisión de automatica de trabajos
-- Sistemas multiprogamados
+- Transmisión de automática de trabajos
+- Sistemas multiprogramados
 - Sistemas tiempo compartidos (chips)
