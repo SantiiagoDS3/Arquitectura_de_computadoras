@@ -1,1 +1,1 @@
-![[CPU.png]]()
+![[CPU.png](CPU.png)
