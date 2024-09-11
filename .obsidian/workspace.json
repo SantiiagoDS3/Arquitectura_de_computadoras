@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Semana 2/Día 3.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/Semana 3/Día 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 232.5
   },
   "right": {
     "id": "776c89f7da32bee2",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de Computadoras/Semana 2/Día 3.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/Semana 3/Día 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de Computadoras/Semana 2/Día 3.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/Semana 3/Día 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de Computadoras/Semana 2/Día 3.md"
+                "file": "Arquitectura de Computadoras/Unidad 1/Semana 3/Día 1.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "f54f5f1ee2df8091",
   "lastOpenFiles": [
-    "Telecomunicaciones/Semana 1/Día 3.md",
-    "Telecomunicaciones/Semana 2/Día 3.md",
-    "Arquitectura de Computadoras/Semana 2/Día 3.md",
-    "Arquitectura de Computadoras/Semana 2/CPU.png",
-    "Telecomunicaciones/Semana 1/Día 2.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/Día 2.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/Día 4.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/Día 3.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 3/Día 1.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/Día 1.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/Día 1.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/Día 2.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/Día 3.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/Día 4.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/Día 5.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/CPU.png",
+    "Telecomunicaciones/Unidad 2/Semana 1/Día 2.  9-Sep-2024.md",
+    "Arquitectura de Computadoras/Unidad 1/Semana 3",
+    "Arquitectura de Computadoras/Unidad 1",
+    "Telecomunicaciones/Unidad 1/Semana 2/Día 2.md",
+    "Telecomunicaciones/Unidad 1/Semana 2/DÍa 1.md",
+    "Telecomunicaciones/Unidad 2/Semana 1/Día 1.   5-Sep-2024.md",
+    "Telecomunicaciones/Unidad 2/Semana 1",
+    "Telecomunicaciones/Unidad 1",
+    "Telecomunicaciones/Unidad 2",
+    "Telecomunicaciones/Unidad 1/Semana 1/Día 2.md",
+    "Telecomunicaciones/Unidad 1/Semana 1/Día 5.md",
+    "Telecomunicaciones/Unidad 1/Semana 1/Día 3.md",
+    "Telecomunicaciones/Unidad 1/Semana 1/Día 4.md",
+    "Telecomunicaciones/Unidad 1/Semana 2/Día 5.md",
+    "Telecomunicaciones/Unidad 1/Semana 2/Día 4.md",
+    "Telecomunicaciones/Unidad 1/Semana 2/Día 3.md",
+    "Telecomunicaciones/Unidad 1/Semana 1/Dia 1.md",
     "Pasted image 20240830084944.png",
-    "Arquitectura de Computadoras/Semana 2/Día 1.md",
-    "Telecomunicaciones/Semana 1/SH_T_UNIDAD1_T1.3.pdf",
-    "Arquitectura de Computadoras/Semana 2/Día 2.md",
-    "Arquitectura de Computadoras/Semana 2/Día 5.md",
-    "Arquitectura de Computadoras/Semana 2/Día 4.md",
-    "Arquitectura de Computadoras/Semana 1/Día 5.md",
-    "Arquitectura de Computadoras/Semana 1/Día 4.md",
-    "Arquitectura de Computadoras/Semana 1/Día 1.md",
-    "Arquitectura de Computadoras/Semana 1/Día 2.md",
-    "Arquitectura de Computadoras/Semana 1/Día 3.md",
-    "Telecomunicaciones/Semana 2/Día 5.md",
-    "Telecomunicaciones/Semana 1/Día 5.md",
-    "Telecomunicaciones/Semana 1/Día 4.md",
-    "Telecomunicaciones/Semana 1/Dia 1.md",
-    "Telecomunicaciones/Semana 2/DÍa 1.md",
-    "Telecomunicaciones/Semana 2/Día 4.md",
-    "Telecomunicaciones/Semana 2/Día 2.md",
+    "Telecomunicaciones/Unidad 1/Semana 1/SH_T_UNIDAD1_T1.3.pdf",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2/Día 5.md",
     "Telecomunicaciones/Día 4.md",
-    "Arquitectura de Computadoras/Semana 1/SH_AC_Unidad1_T1.1.pdf",
-    "Telecomunicaciones/Semana 1/SH_T_Unidad1_T1.2.pdf",
-    "Arquitectura de Computadoras/Semana 2",
-    "Telecomunicaciones/Semana 2",
-    "Telecomunicaciones/Semana 1/Sin nombre",
-    "Telecomunicaciones.md",
-    "Sin título.md",
-    "Arquitectura de Computadoras/Semana 1",
-    "Excalidraw/Drawing 2024-08-20 07.33.47.excalidraw.md",
-    "Arquitectura de Computadoras",
-    "Excalidraw",
-    "Telecomunicaciones/Semana 1",
-    "Bienvenido.md"
+    "Arquitectura de Computadoras/Unidad 1/Semana 1/SH_AC_Unidad1_T1.1.pdf",
+    "Telecomunicaciones/Unidad 1/Semana 1/SH_T_Unidad1_T1.2.pdf",
+    "Arquitectura de Computadoras/Unidad 1/Semana 2",
+    "Telecomunicaciones/Unidad 1/Semana 2",
+    "Telecomunicaciones.md"
   ]
 }
